@@ -3,28 +3,17 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.4926872253418,
-          32.58876703926155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
+        "marker-color": "#dd550c",
+        "marker-size": "small",
         "marker-symbol": "star",
         "Names": "Rusty Presley (Secretary), John Harley (Southern Region)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.49620628356934,
-          32.58645285470224
+          -85.3472900390625,
+          32.6093028087336
         ]
       }
     },
@@ -41,7 +30,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#1e40a3",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Name": "Jackie W. (Northeast Region)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -52,7 +46,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Name": "Brian Webster (Vice President)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -63,18 +62,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.0207633972168,
-          40.002240440074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#bb0000",
+        "marker-size": "small",
+        "marker-symbol": "star",
+        "Names": "Duane Rigsby (President), Steve L. (North Central Region)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -129,12 +122,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#880000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Name": "Karen Craig (1890's Region)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.69046258926392,
-          32.42360520443186
+          -86.077880859375,
+          32.36604320976023
         ]
       }
     }
