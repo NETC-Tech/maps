@@ -6,6 +6,7 @@
       "properties": {},
       "geometry": {
         "type": "Point",
+        "marker-size": "small",
         "coordinates": [
           -85.4926872253418,
           32.58876703926155
@@ -17,6 +18,7 @@
       "properties": {},
       "geometry": {
         "type": "Point",
+        "marker-size": "large",
         "coordinates": [
           -85.49620628356934,
           32.58645285470224
