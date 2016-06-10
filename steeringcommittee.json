@@ -6,7 +6,6 @@
       "properties": {},
       "geometry": {
         "type": "Point",
-        "marker-size": "small",
         "coordinates": [
           -85.4926872253418,
           32.58876703926155
@@ -15,10 +14,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "Names": "Rusty Presley (Secretary), John Harley (Southern Region)"
+      },
       "geometry": {
         "type": "Point",
-        "marker-size": "large",
         "coordinates": [
           -85.49620628356934,
           32.58645285470224
