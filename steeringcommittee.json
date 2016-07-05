@@ -7,7 +7,7 @@
         "marker-color": "#dd550c",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Rusty Presley (Secretary),<br/> John Harley (Southern)"
+        "Names": "Rusty Presley (Secretary),<br/>John Harley (Southern)"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#bb0000",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Duane Rigsby (President), Steve Lichtensteiger (North Central)"
+        "Names": "Duane Rigsby (President),<br/>Steve Lichtensteiger (North Central)"
       },
       "geometry": {
         "type": "Point",
