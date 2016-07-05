@@ -7,7 +7,7 @@
         "marker-color": "#dd550c",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Rusty Presley (Secretary), John Harley (Southern Region)"
+        "Names": "Rusty Presley (Secretary),<br/> John Harley (Southern)"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "marker-color": "#1e40a3",
         "marker-size": "small",
         "marker-symbol": "",
-        "Name": "Jackie Weikert (Northeast Region)"
+        "Name": "Jackie Weikert (Northeast)"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#bb0000",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Duane Rigsby (President), Steve Lichtensteiger (North Central Region)"
+        "Names": "Duane Rigsby (President), Steve Lichtensteiger (North Central)"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +87,7 @@
         "marker-color": "#004c23",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Joy Bauder (Western Region)"
+        "Names": "Joy Bauder (West)"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "marker-color": "#880000",
         "marker-size": "small",
         "marker-symbol": "",
-        "Name": "Karen Craig (1890's Region)"
+        "Name": "Karen Craig (1890's)"
       },
       "geometry": {
         "type": "Point",
