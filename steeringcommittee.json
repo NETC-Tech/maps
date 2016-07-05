@@ -19,7 +19,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#41603a",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "John Cooley (Treasure)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -34,7 +39,7 @@
         "marker-color": "#1e40a3",
         "marker-size": "small",
         "marker-symbol": "",
-        "Name": "Jackie W. (Northeast Region)"
+        "Name": "Jackie Weikert (Northeast Region)"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +71,7 @@
         "marker-color": "#bb0000",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Duane Rigsby (President), Steve L. (North Central Region)"
+        "Names": "Duane Rigsby (President), Steve Lichtensteiger (North Central Region)"
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +83,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#004c23",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Joy Bauder (Western Region)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,7 +99,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#002a61",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Millie Veltkamp (Past Conference)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -100,7 +115,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#00519a",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Pete Vergot (Current Conference Rep)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -111,7 +131,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#97280e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Brian Watson (Future Conference)"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
