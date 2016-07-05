@@ -7,6 +7,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Cleveland, OH",
+        "Title": "Rhythm and Renaissance",
         "Year": 1997
       },
       "geometry": {
@@ -23,6 +25,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "St. Louis, MO",
+        "Title": "Connect with the Future",
         "Year": 1998
       },
       "geometry": {
@@ -39,6 +43,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Knoxville, TN",
+        "Title": "Smoky Mountain Summit",
         "Year": 1999
       },
       "geometry": {
@@ -55,6 +61,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "College Station, TX",
+        "Title": "Fast Chips and Hot Salsa!",
         "Year": 2000
       },
       "geometry": {
@@ -71,6 +79,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "San Antonio, TX",
+        "Title": "Ideas and Missions",
         "Year": 2005
       },
       "geometry": {
@@ -87,6 +97,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Toronto, Ontario, Canada",
+        "Title": "Bridging the World's Borders",
         "Year": 2001
       },
       "geometry": {
@@ -103,6 +115,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "State College, PA",
+        "Title": "Innovation Through Cooperation",
         "Year": 2002
       },
       "geometry": {
@@ -116,25 +130,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7591f1",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Year": 2003
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.58370208740234,
-          39.099193564243734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "West Lafayette, IN",
+        "Title": "Tippecanoe and Technology Too",
         "Year": 2004
       },
       "geometry": {
@@ -151,6 +151,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Indianapolis, IN",
+        "Title": "Racing Ahead",
         "Year": 2013
       },
       "geometry": {
@@ -167,6 +169,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Gainsville, FL",
+        "Title": "Enhancing Teamwork with Technology",
         "Year": 2006
       },
       "geometry": {
@@ -183,6 +187,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Kissimmee, FL",
+        "Title": "A Byte of Paradise",
         "Year": 2016
       },
       "geometry": {
@@ -199,6 +205,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Albuquerque, NM",
+        "Title": "Double Feature Creature",
         "Year": 2007
       },
       "geometry": {
@@ -215,6 +223,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Raleigh, NC",
+        "Title": "In the Pines",
         "Year": 2008
       },
       "geometry": {
@@ -231,6 +241,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Des Moines, IA",
+        "Title": "When Tillage Begins, Other Arts Follow",
         "Year": 2009
       },
       "geometry": {
@@ -247,6 +259,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Auburn, AL",
+        "Title": "High Tech Down Home",
         "Year": 2010
       },
       "geometry": {
@@ -263,6 +277,8 @@
         "marker-color": "#7592f2",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Denver, CO",
+        "Title": "Ver. 2.011",
         "Year": 2011
       },
       "geometry": {
@@ -279,6 +295,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "New Orleans, LA",
+        "Title": "That VooDoo You Do",
         "Year": 2012
       },
       "geometry": {
@@ -295,6 +313,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Manhattan, KS",
+        "Title": "Tekkies in the Little Apple",
         "Year": 2014
       },
       "geometry": {
@@ -311,7 +331,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
-        "City": "Big Sky Montana",
+        "City": "Big Sky, MT",
         "Title": "Mountains of Code: technological transcendence under the big sky",
         "Year": 2015
       },
@@ -329,6 +349,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Savannah, GA",
+        "Title": "Mossy Oaks & IT Folks",
         "Year": 2017
       },
       "geometry": {
@@ -362,6 +384,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Clemson, SC",
         "Year": 1988
       },
       "geometry": {
@@ -378,6 +401,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "St. Paul, MN",
         "Year": 1989
       },
       "geometry": {
@@ -394,6 +418,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Hershey, PA",
         "Year": 1991
       },
       "geometry": {
@@ -410,6 +435,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "East Lansing, MI",
         "Year": 1992
       },
       "geometry": {
@@ -426,6 +452,8 @@
         "marker-color": "#7592f1",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Miami, FL",
+        "Title": "Discover New Worlds",
         "Year": 1993
       },
       "geometry": {
@@ -442,6 +470,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Lexington, KY",
         "Year": 1994
       },
       "geometry": {
@@ -458,6 +487,8 @@
         "marker-color": "#7592f1",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Burlington, VT",
+        "Title": "Green Mountain Get-Together",
         "Year": 1995
       },
       "geometry": {
@@ -474,6 +505,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Atlanta, GA",
         "Year": 1996
       },
       "geometry": {
@@ -481,6 +513,24 @@
         "coordinates": [
           -84.39289569854736,
           33.75947269739479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7592f2",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "City": "Kansas City, KS",
+        "Title": "Cool Bytes, Jazz Nights",
+        "Year": 2003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.63022232055664,
+          39.10249065043197
         ]
       }
     }
