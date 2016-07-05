@@ -311,6 +311,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "",
+        "City": "Big Sky Montana",
+        "Title": "Mountains of Code: technological transcendence under the big sky",
         "Year": 2015
       },
       "geometry": {
@@ -343,6 +345,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
+        "City": "Blacksburg, VA",
         "Year": "1986<br/>1987<br/>1990"
       },
       "geometry": {
