@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "bar",
+        "URL": "<a href=\"https://www.google.com/\">Google</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.63840579986572,
+          42.03204992797239
+        ]
+      }
+    }
+  ]
+}
