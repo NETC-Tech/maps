@@ -100,26 +100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#002a61",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Names": "Millie Veltkamp (Past Conference)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.07383728027344,
-          45.662046892179845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#00519a",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Pete Vergot (Current Conference)"
+        "Names": "Pete Vergot (Past Conference)"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +119,7 @@
         "marker-color": "#97280e",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Brian Watson (Future Conference)"
+        "Names": "Brian Watson (Current Conference)"
       },
       "geometry": {
         "type": "Point",
