@@ -4,144 +4,160 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#dd550c",
+        "marker-color": "#ad0000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Greg Johll (North Central)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4125,
+          43.0766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4d0000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Bekah Sparks (Communications Manager)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7944,
+          33.4552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b63b00",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "John Harley (Southern)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4952,
+          32.5934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#110398",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "Names": "Jennifer Sykes (Vice President)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3549,
+          29.6436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1d2e6b",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Rusty Presley (Secretary)<br/>John Harley (Southern)"
+        "Name": "Edward Zuech (President), Jackie Weikert (Northeast)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.3472900390625,
-          32.6093028087336
+          -77.8599,
+          40.7982
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#41603a",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Names": "John Cooley (Treasure)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.62786865234375,
-          44.41416430998939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#1e40a3",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Name": "Jackie Weikert (Northeast)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.860107421875,
-          40.81588791441588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#cc0000",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Name": "Brian Webster (Vice President)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.63853454589844,
-          42.03201805171645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#bb0000",
+        "marker-color": "#b50000",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Names": "Duane Rigsby (President)<br/>Steve Lichtensteiger (North Central)"
+        "Name": "Mike Mauton (VP Elect), Kristi Elmore (Secretary)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.03140640258789,
-          40.00289791655391
+          -93.6465,
+          42.0266
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004c23",
+        "marker-color": "#ab0003",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Joy Bauder (West)"
+        "Names": "Steve Lichtensteiger (Treasurer)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.08817672729492,
-          40.57302246320221
+          -83.0309,
+          40.0142
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#002a61",
+        "marker-color": "#0c1d50",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Millie Veltkamp (Past Conference)"
+        "Names": "Nic Richardson (Western)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.07383728027344,
-          45.662046892179845
+          -111.0676,
+          45.6647
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00519a",
+        "marker-color": "#731032",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Pete Vergot (Current Conference)"
+        "Names": "Neal Vines (Past Conference)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.35008239746094,
-          29.63196490525779
+          -80.4234,
+          37.2284
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#97280e",
+        "marker-color": "#13336b",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Brian Watson (Future Conference)"
+        "Names": "Ron Davis (Current Conference)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.40648651123047,
-          33.96386430820156
+          -79.9559,
+          39.6361
         ]
       }
     },
@@ -156,8 +172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.077880859375,
-          32.36604320976023
+          -85.7077,
+          32.4302
         ]
       }
     }
