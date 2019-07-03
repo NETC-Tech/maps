@@ -518,6 +518,42 @@
       }
     },
     {
+ "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "City": "Morgantown, WV",
+        "Title": "Country Roads, Reroute me Home",
+        "Year": 2019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39289569854736,
+          39.629761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "City": "Pullman, WA",
+        "Title": "NETC Goes West",
+        "Year": 2020
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.181831,
+          46.729721
+        ]
+      }
+    },
+    {
       "type": "Feature",
       "properties": {
         "marker-color": "#7592f2",
