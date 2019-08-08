@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#ad0000",
+                "marker-color": "#cd001a",
                 "marker-size": "small",
                 "marker-symbol": "",
                 "Names": "Greg Johll (North Central)"
@@ -20,7 +20,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#4d0000",
+                "marker-color": "#6a0005",
                 "marker-size": "small",
                 "marker-symbol": "",
                 "Names": "Bekah Sparks (Communications Manager)"
@@ -36,7 +36,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#b63b00",
+                "marker-color": "#960d16",
                 "marker-size": "small",
                 "marker-symbol": "",
                 "Names": "John Harley (Southern)"
@@ -52,10 +52,10 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#110398",
+                "marker-color": "#005398",
                 "marker-size": "small",
-                "marker-symbol": "",
-                "Names": "Jennifer Sykes (Vice President)"
+                "marker-symbol": "star",
+                "Names": "Jennifer Sykes (President)"
             },
             "geometry": {
                 "type": "Point",
@@ -68,10 +68,10 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#1d2e6b",
+                "marker-color": "#12407a",
                 "marker-size": "small",
-                "marker-symbol": "star",
-                "Name": "Edward Zuech (President), Jackie Weikert (Northeast)"
+                "marker-symbol": "",
+                "Name": "Jackie Weikert (Northeast)"
             },
             "geometry": {
                 "type": "Point",
@@ -84,10 +84,10 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#b50000",
+                "marker-color": "#cc0000",
                 "marker-size": "small",
-                "marker-symbol": "star",
-                "Name": "Mike Mauton (VP Elect), Kristi Elmore (Secretary)"
+                "marker-symbol": "",
+                "Name": "Mike Mauton (Vice President), Kristi Elmore (Secretary)"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +100,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#ab0003",
+                "marker-color": "#c30011",
                 "marker-size": "small",
                 "marker-symbol": "",
                 "Names": "Steve Lichtensteiger (Treasurer)"
@@ -116,7 +116,7 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#0c1d50",
+                "marker-color": "#63001f",
                 "marker-size": "small",
                 "marker-symbol": "",
                 "Names": "Nic Richardson (Western)"
@@ -132,26 +132,26 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#731032",
+                "marker-color": "#9e1d34",
                 "marker-size": "small",
                 "marker-symbol": "",
-                "Names": "Neal Vines (Past Conference)"
+                "Names": "Bill Bonner (Current Conference)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.4234,
-                    37.2284
+                    -117.154213,
+                    46.731922
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#13336b",
+                "marker-color": "#002853",
                 "marker-size": "small",
                 "marker-symbol": "",
-                "Names": "Ron Davis (Current Conference)"
+                "Names": "Ron Davis (Past Conference)"
             },
             "geometry": {
                 "type": "Point",
@@ -161,13 +161,29 @@
                 ]
             }
         },
+      {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#502781",
+                "marker-size": "small",
+                "marker-symbol": "",
+                "Names": "Joel Wallace (Vice President Elect)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.584724,
+                    39.197445
+                ]
+            }
+        },
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#880000",
+                "marker-color": "#005e98",
                 "marker-size": "small",
                 "marker-symbol": "",
-                "Name": "Karen Craig (1890's)"
+                "Name": "William Scott (1890's)"
             },
             "geometry": {
                 "type": "Point",
