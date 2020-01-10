@@ -20,16 +20,16 @@
         {
             "type": "Feature",
             "properties": {
-                "marker-color": "#6a0005",
+                "marker-color": "#9D2235",
                 "marker-size": "small",
                 "marker-symbol": "",
-                "Names": "Bekah Sparks (Communications Manager)"
+                "Names": "Amy Cole (Communications Manager)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -88.7944,
-                    33.4552
+                    -94.176582,
+                    36.069962
                 ]
             }
         },
