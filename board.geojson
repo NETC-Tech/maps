@@ -23,7 +23,7 @@
         "marker-color": "#9D2235",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Amy Cole (Communications Manager)"
+        "Names": "Amy Cole (Communications Manager) *Future Conference*"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "marker-color": "#12407a",
         "marker-size": "small",
         "marker-symbol": "",
-        "Name": "Ed Zuech (Vice-President Elect), Jackie Weikert (Northeast)"
+        "Name": "Ed Zuech (Vice-President), Jackie Weikert (Northeast)"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#cc0000",
         "marker-size": "small",
         "marker-symbol": "star",
-        "Name": "Mike Mauton (President), Kristi Elmore (Secretary)"
+        "Name": "Mike Mauton (President), Robin Ertz (Vice-President Elect)"
       },
       "geometry": {
         "type": "Point",
@@ -116,66 +116,18 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#9e1d34",
+        "marker-color": "#BA0C2F",
         "marker-size": "small",
         "marker-symbol": "",
-        "Names": "Nic Pappin (Current Conference)"
+        "Names": "Benjamin Whetstone (Secretary)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.154213,
-          46.731922
+          -83.357567,
+          33.951935
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#002853",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Names": "Ron Davis (Past Conference)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9559,
-          39.6361
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#502781",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Names": "Joel Wallace (Vice President)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.584724,
-          39.197445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#005e98",
-        "marker-size": "small",
-        "marker-symbol": "",
-        "Name": "William Scott (1890's)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.7077,
-          32.4302
-        ]
-      }
-    }
   ]
 }
